@@ -19,6 +19,7 @@ client.on('message', async message => {
 	}
 	if (message.content === 'etra copy') {
 		// Will commit this shit later
+		// In a lot of time because I'm too lazy to clean my code
 	}
 
 });
